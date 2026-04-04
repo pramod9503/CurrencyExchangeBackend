@@ -69,13 +69,13 @@ This project implements:
 
     *   Type the following command to run the __rabbitmq:3-management__ container with name __rabbitmq-currency__.
 
-            `docker run -d \
+            docker run -d \
             --hostname rabbitmq-host \
             --name rabbitmq-currency \
             -p 5672:5672 \
             -p 15672:15672 \
             -v rabbitmq_data:/var/lib/rabbitmq \
-            rabbitmq:3-management`
+            rabbitmq:3-management
 
 3.	Access UI: 
             http://localhost:15672/
