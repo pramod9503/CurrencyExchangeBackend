@@ -128,7 +128,7 @@ This project implements:
 
 ![Front UI](CurrencyAdministrator/Images/Screenshots/customer_administrator.png)
 
-- Changing the currency rate by Administrator.
+- Changing the currency rate by the Administrator.
 
 ![Updating Rate](CurrencyAdministrator/Images/Screenshots/rate_updating.png)
 
