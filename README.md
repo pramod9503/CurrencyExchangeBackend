@@ -83,7 +83,7 @@ This project implements:
 
 4.	Import Queue Configuration
     *	Open RabbitMQ UI
-    *	Import RabbitMq-Configuration.json file found in the __“~CurrencyExchangeLive\Backend\CurrencyAdministrator”__ folder.
+    *	Import __RabbitMq-Configuration.json__ file found in the __“~CurrencyExchangeLive\Backend\CurrencyAdministrator”__ folder.
         - This creates:
             + Exchange: currency_update_exchange
             + Queue: currency_exchange.queue
@@ -97,12 +97,12 @@ This project implements:
 
 6.	Run Backend
     *   Runs:
-        -   Admin API
+        -   Administration API
         -   Customer API
         -   Opens Swagger for both services
 
 7.	Run Frontend (.NET MAUI)
-    *   Run:
+    *   Runs:
         -   Administration App
         -   Customer App
 
@@ -126,7 +126,7 @@ This project implements:
 ## Screenshots
 - Opening screenshot.
 
-![Front UI](Resources/Images/Screenshots/customer_administrator.png)
+![Front UI](CurrencyAdministrator/Images/Screenshots/customer_administrator.png)
 
 - Changing the currency rate by Administrator.
 
