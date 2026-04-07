@@ -124,7 +124,11 @@ This project implements:
 *	Microservices Communication
 
 ## Screenshots
-- Opening screenshot.
+- Backend opening screenshot of Swagger.
+
+![Swagger UI](CurrencyAdministrator/Images/Screenshots/swagger.png)
+
+- Opening screenshot of Frontend .NET MAUI Administrator and Customer apps.
 
 ![Front UI](CurrencyAdministrator/Images/Screenshots/customer_administrator.png)
 
