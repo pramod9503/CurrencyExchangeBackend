@@ -96,12 +96,14 @@ This project implements:
         This will create 'CurrenciesDb' SQL Server database.
 
 6.	Run Backend
+    * Configure both projects CurrencyAdministrator and CurrencyExchange to run simultaneously.
     *   Runs:
         -   Administration API
         -   Customer API
         -   Opens Swagger for both services
 
 7.	Run Frontend (.NET MAUI)
+    * Configure both projects CurrencyExchangeAdministrator and CurrencyExchangeCustomer to run simultaneously.
     *   Runs:
         -   Administration App
         -   Customer App
