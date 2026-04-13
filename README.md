@@ -128,37 +128,37 @@ This project implements:
 ## Screenshots
 - Backend opening screenshot of Swagger.
 
-![Swagger UI](CurrencyAdministrator/Images/Screenshots/swagger.png)
+![Swagger UI](CurrencyAdministrator/Images/Screenshots_New/swagger.png)
 
 - Opening screenshot of Frontend .NET MAUI Administrator and Customer apps.
 
-![Front UI](CurrencyAdministrator/Images/Screenshots/customer_administrator.png)
+![Front UI](CurrencyAdministrator/Images/Screenshots_New/customer_administrator.png)
 
 - Changing the currency rate by the Administrator.
 
-![Updating Rate](CurrencyAdministrator/Images/Screenshots/rate_updating.png)
+![Updating Rate](CurrencyAdministrator/Images/Screenshots_New/rate_updating.png)
 
 - Live update in currency rate and cache invalidation after the currency rate changed by the Administrator.
 
-![Rate Updated](CurrencyAdministrator/Images/Screenshots/rate_updated.png)
+![Rate Updated](CurrencyAdministrator/Images/Screenshots_New/rate_updated.png)
 
 - __Source: Database__ when the currencies are fetched for the first time. 
 
-![Currencies Fetched from Database](CurrencyAdministrator/Images/Screenshots/customer_db_fetched.png)
+![Currencies Fetched from Database](CurrencyAdministrator/Images/Screenshots_New/customer_db_fetched.png)
 
 - __Source: Cache__ when the currencies are fetched subsequent times by clicking the __Refresh__ button.
 
-![Currencies Fetched from Cache](CurrencyAdministrator/Images/Screenshots/customer_cache_fetched.png)
+![Currencies Fetched from Cache](CurrencyAdministrator/Images/Screenshots_New/customer_cache_fetched.png)
 
 - Currency __Source: Client Memory__ when the currency is accessed for the first time from currencies list.
 
-![Currency in Client Memory](CurrencyAdministrator/Images/Screenshots/currency_client_memory.png)
+![Currency in Client Memory](CurrencyAdministrator/Images/Screenshots_New/currency_client_memory.png)
 
 - Currency __Source: Database__ when the __Refresh__ button is clicked and currency accessed for the first time.
 
-![Currency Fetched from Database](CurrencyAdministrator/Images/Screenshots/currency_database.png)
+![Currency Fetched from Database](CurrencyAdministrator/Images/Screenshots_New/currency_database.png)
 
 - Currency __Source: Cache__ when the __Refresh__ button is clicked and currency accessed for the subsequent times until the currencies have not changed.
 
-![Currency Fetched from Cache](CurrencyAdministrator/Images/Screenshots/currency_cache.png)
+![Currency Fetched from Cache](CurrencyAdministrator/Images/Screenshots_New/currency_cache.png)
 
